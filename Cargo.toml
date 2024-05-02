@@ -2,6 +2,7 @@
 name = "is_terminal_polyfill"
 version = "1.70.0"
 description = "Polyfill for `is_terminal` stdlib feature for use with older MSRVs"
+repository = "https://github.com/polyfill-rs/is_terminal_polyfill"
 categories = []
 keywords = []
 license = "MIT OR Apache-2.0"
