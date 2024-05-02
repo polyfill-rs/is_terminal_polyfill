@@ -34,7 +34,7 @@ macro_rules! impl_is_terminal {
         impl IsTerminal for $t {
             #[inline]
             fn is_terminal(&self) -> bool {
-                std::io::IsTerminal::is_terminal(self)
+                is_terminal::IsTerminal::is_terminal(self)
             }
         }
     )*}
