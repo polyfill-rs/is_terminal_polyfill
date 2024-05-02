@@ -7,7 +7,7 @@ on:
   pull_request:
   push:
     branches:
-    - main
+    - "main-v*"
 
 env:
   RUST_BACKTRACE: 1

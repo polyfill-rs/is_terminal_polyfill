@@ -1,14 +1,14 @@
 # These settings are synced to GitHub by https://probot.github.io/apps/settings/
 
 repository:
-  description: "DESCRIPTION"
-  homepage: "https://docs.rs/PROJECT"
+  description: "Polyfill for `is_terminal` stdlib feature for use with older MSRVs"
+  homepage: "https://docs.rs/is_terminal_polyfill"
   topics: ""
   has_issues: true
   has_projects: false
   has_wiki: false
   has_downloads: true
-  default_branch: main
+  default_branch: main-v1.70
 
   # Preference: people do clean commits
   allow_merge_commit: true

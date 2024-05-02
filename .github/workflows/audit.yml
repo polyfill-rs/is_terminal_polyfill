@@ -10,7 +10,7 @@ on:
       - '**/Cargo.lock'
   push:
     branches:
-    - main
+    - "main-v*"
 
 env:
   RUST_BACKTRACE: 1
