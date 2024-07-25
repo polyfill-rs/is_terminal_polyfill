@@ -4,4 +4,4 @@ version = 3
 
 [[package]]
 name = "is_terminal_polyfill"
-version = "1.70.0"
+version = "1.70.1"
