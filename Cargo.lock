@@ -58,7 +58,7 @@ dependencies = [
 
 [[package]]
 name = "is_terminal_polyfill"
-version = "1.48.1"
+version = "1.48.2"
 dependencies = [
  "is-terminal",
 ]
